@@ -48,4 +48,4 @@ _Replace `uUSERNAME` with your actual username._
 
 ## LICENSE 
 
-idk what `GPL-3.0 license` is i ain't readin' all of that it just soudns cool.
+idk what `GPL-3.0 license` is i ain't readin' all of that it just sounds cool.
