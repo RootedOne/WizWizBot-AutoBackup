@@ -37,7 +37,7 @@ _Replace `uUSERNAME` with your actual username._
 
 ## Contributing
 
-**Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the project's coding standards and guidelines.**
+- **Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the project's coding standards and guidelines.**
 
 ## Acknowledgments
 
