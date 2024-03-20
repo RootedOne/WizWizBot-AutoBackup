@@ -37,7 +37,7 @@ _Replace `uUSERNAME` with your actual username._
 
 ## Contributing
 
-Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the project's coding standards and guidelines.
+**Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the project's coding standards and guidelines.**
 
 ## Acknowledgments
 
@@ -45,3 +45,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 - [cURL](https://curl.se/) for enabling seamless HTTP requests within PHP.
 - [MySQL](https://www.mysql.com/) for the reliable and efficient database management system.
 - [gzip](https://www.gzip.org/) for the compression functionality.
+
+## LICENSE 
+
+idk what `GPL-3.0 license` i ain't readin' all of that is it just soudns cool.
