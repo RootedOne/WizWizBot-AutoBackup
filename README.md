@@ -5,7 +5,7 @@
 ### Features
 
 - **Automated Database Backup**: The script seamlessly creates a backup of your specified database using the `mysqldump` command.
-- **Secure File Transfer**: The generated backup file is securely sent to a designated Telegram chat using the Telegram Bot API and cURL requests.
+- **Secure File Transfer**: The generated backup file is securely sent to a designated Telegram chat using the Telegram Bot API and `cURL` requests.
 - **Error Handling and Logging**: Comprehensive error handling and logging mechanisms are implemented to track and resolve any issues that may arise during the backup process.
 - **Flexible Configuration**: Database credentials, Telegram bot token, and chat ID can be easily configured by modifying the `baseInfo.php` file.
 - **Automatic File Compression**: If the backup file size exceeds the Telegram API limit (20 MB), the script automatically compresses the file using `gzip` to ensure successful transfer.
